@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mm2punto0</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo_day">Pics of the Day</string>
+    <string name="new_photo">Add New Photo</string>
+    <string name="new_phrase">Add New Phrase</string>
+    <string name="title_activity_new_phrase">New Phrase Creation</string>
+    <string name="create_phrase">Create New Phrase</string>
+    <string name="create_photo">Create New Photo</string>
+    <string name="new_phrase_hint"> Insert Here the New Phrase</string>
+    <string name="title_activity_new_photo">New Photo Creation</string>
+    <string name="PleaseWait">Please wait</string>
+    <string name="Loading">Loading..</string>
+    <string name="Select">Please, select an image</string>
+    <string name="NotTaken">Picture was not taken</string>
+    <string name="title_activity_picture_day">Picture of the Day</string>
+    <string name="PhraseOfTheDay">Phrase Of The Day</string>
+    <string name="PhotoOfTheDay">Photo Of The Day</string>
+    <string name="PhotoCreated">Photo correctly created</string>
+    <string name="PhraseCreated">Phrase correctly created</string>
+    <string name="logo">Logo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+
+</resources>

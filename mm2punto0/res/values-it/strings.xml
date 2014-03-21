@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">mm2punto0</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo_day">Foto del Giorno</string>
+    <string name="new_photo">Aggiungi una nuova Foto</string>
+    <string name="new_phrase">Aggiungi una nuova Frase</string>
+    <string name="title_activity_new_phrase">Creazione nuova Frase</string>
+    <string name="create_phrase">Crea nuova Frase</string>
+    <string name="create_photo">Crea nuova Foto</string>
+    <string name="new_phrase_hint"> Inserisci qui la nuova Frase</string>
+    <string name="title_activity_new_photo">Creazione nuova Foto</string>
+    <string name="PleaseWait">Attendi</string>
+    <string name="Loading">Caricamento..</string>
+    <string name="Select">Per favore, seleziona un\'immagine</string>
+    <string name="NotTaken">Foto non scattata</string>
+    <string name="title_activity_picture_day">Foto del Giorno</string>
+    <string name="PhraseOfTheDay">Frase del Giorno</string>
+    <string name="PhotoOfTheDay">Foto del Giorno</string>
+    <string name="PhotoCreated">Foto creata correttamente</string>
+    <string name="PhraseCreated">Frase creata correttamente</string>
+    <string name="logo">Logo</string>
+    <string name="camera">Fotocamera</string>
+    <string name="gallery">Galleria</string>
+    
+</resources>
